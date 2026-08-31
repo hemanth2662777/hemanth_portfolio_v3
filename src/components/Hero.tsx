@@ -116,7 +116,7 @@ export const Hero: React.FC = () => {
               </a>
 
               <a
-                href="resume.pdf"
+                href="public/resume.pdf"
                 download
                 onClick={() => playWhooshSound()}
                 className="group inline-flex items-center justify-center gap-2.5 px-7 py-3.5 rounded-xl font-bold text-sm text-neutral-200 bg-black/60 border border-purple-500/35 hover:border-fuchsia-400/60 hover:bg-purple-950/40 hover:text-white hover:shadow-[0_0_20px_rgba(192,38,211,0.3)] hover:scale-[1.03] transition-all duration-300"
