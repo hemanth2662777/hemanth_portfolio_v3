@@ -132,7 +132,7 @@ export const Contact: React.FC<ContactProps> = ({ onShowToast }) => {
             {/* GitHub */}
             <div className="flex flex-col gap-2">
               <a
-                href="https://github.com/heman2662777"
+                href="https://github.com/hemanth2662777"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => playClickSound()}
@@ -143,7 +143,7 @@ export const Contact: React.FC<ContactProps> = ({ onShowToast }) => {
                 <ArrowUpRight className="w-4 h-4 text-fuchsia-400 opacity-60 group-hover:opacity-100 transition-opacity" />
               </a>
               <span className="text-xs font-mono text-center text-gray-500">
-                @heman2662777
+                @hemanth2662777
               </span>
             </div>
           </div>
