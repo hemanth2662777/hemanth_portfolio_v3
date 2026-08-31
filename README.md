@@ -134,7 +134,7 @@ You can deploy this project in minutes on any modern web host:
 - **Author**: Chelimala Hemanth
 - **Email**: [hemanth2662n@gmail.com](mailto:hemanth2662n@gmail.com)
 - **LinkedIn**: [linkedin.com/in/hemanth-chelimala](https://linkedin.com/in/hemanth-chelimala)
-- **GitHub**: [@heman2662777](https://github.com/heman2662777)
+- **GitHub**: [@heman2662777](https://github.com/hemanth2662777)
 
 ---
 
